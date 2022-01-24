@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Pizza",
+      "body": "10$",
+      "datetime": "January 23, 2022 9:07:32 PM"
+    },
+    {
+      "id": 2,
+      "title": "Hamburger",
+      "body": "50$",
+      "datetime": "January 23, 2022 9:06:14 PM"
+    }
+  ]
+}
